@@ -25,8 +25,8 @@ My interests span across **Machine Learning, Deep Learning, Computer Vision, and
 
 ## ⚙️ Skills  
 
-**Programming:** Python, C++  
-**Frameworks & Libraries:** PyTorch, TensorFlow, Hugging Face  
+**Programming:** Python, SQL
+**Frameworks & Libraries:** PyTorch, TensorFlow, Hugging Face, Seaborn, Matplotlib, Numpy
 **Tools & Platforms:** Elasticsearch, Qdrant, Neptune.ai, Docker, FastAPI, Prometheus, Grafana, Alertmanager.  
 **Soft Skills:** Teamwork, Problem Solving, Time Management  
 
