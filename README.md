@@ -18,7 +18,7 @@ My interests span across **Machine Learning, Deep Learning, Computer Vision, and
 **Bachelor of Science in Computer Science**  
 *University of Information Technology (VNU-HCM)*  
 📅 *2022 – Present (Expected Graduation: September 2026)*  
-📊 *Current GPA: 3.01 / 4.0*  
+📊 *Current GPA: 3.05 / 4.0*  
 🎯 Focus: *AI, Machine Learning, Computer Vision, NLP*
 
 ---
