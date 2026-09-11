@@ -4,7 +4,7 @@
 ---
 
 ## 🧠 About Me  
-I’m a **Computer Science student at UIT (VNU-HCM)** with a GPA of **3.01 / 4.0**.  
+I’m a **Computer Science student at UIT (VNU-HCM)** with a GPA of **3.04 / 4.0**.  
 I’m passionate about building **AI-powered applications** that bridge research and real-world impact.  
 
 I’ve developed and deployed **end-to-end machine learning systems** in areas such as:  
@@ -18,7 +18,7 @@ My interests span across **Machine Learning, Deep Learning, Computer Vision, and
 **Bachelor of Science in Computer Science**  
 *University of Information Technology (VNU-HCM)*  
 📅 *2022 – Present (Expected Graduation: September 2026)*  
-📊 *Current GPA: 3.05 / 4.0*  
+📊 *Current GPA: 3.04 / 4.0*  
 🎯 Focus: *AI, Machine Learning, Computer Vision, NLP*
 
 ---
